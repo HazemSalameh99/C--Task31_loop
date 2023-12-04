@@ -1,0 +1,16 @@
+E:\OrangeTasks\C#-Tasks\Task_3Loops\bin\Debug\net5.0\Task_3Loops.exe
+E:\OrangeTasks\C#-Tasks\Task_3Loops\bin\Debug\net5.0\Task_3Loops.deps.json
+E:\OrangeTasks\C#-Tasks\Task_3Loops\bin\Debug\net5.0\Task_3Loops.runtimeconfig.json
+E:\OrangeTasks\C#-Tasks\Task_3Loops\bin\Debug\net5.0\Task_3Loops.runtimeconfig.dev.json
+E:\OrangeTasks\C#-Tasks\Task_3Loops\bin\Debug\net5.0\Task_3Loops.dll
+E:\OrangeTasks\C#-Tasks\Task_3Loops\bin\Debug\net5.0\ref\Task_3Loops.dll
+E:\OrangeTasks\C#-Tasks\Task_3Loops\bin\Debug\net5.0\Task_3Loops.pdb
+E:\OrangeTasks\C#-Tasks\Task_3Loops\obj\Debug\net5.0\Task_3Loops.csproj.AssemblyReference.cache
+E:\OrangeTasks\C#-Tasks\Task_3Loops\obj\Debug\net5.0\Task_3Loops.GeneratedMSBuildEditorConfig.editorconfig
+E:\OrangeTasks\C#-Tasks\Task_3Loops\obj\Debug\net5.0\Task_3Loops.AssemblyInfoInputs.cache
+E:\OrangeTasks\C#-Tasks\Task_3Loops\obj\Debug\net5.0\Task_3Loops.AssemblyInfo.cs
+E:\OrangeTasks\C#-Tasks\Task_3Loops\obj\Debug\net5.0\Task_3Loops.csproj.CoreCompileInputs.cache
+E:\OrangeTasks\C#-Tasks\Task_3Loops\obj\Debug\net5.0\Task_3Loops.dll
+E:\OrangeTasks\C#-Tasks\Task_3Loops\obj\Debug\net5.0\ref\Task_3Loops.dll
+E:\OrangeTasks\C#-Tasks\Task_3Loops\obj\Debug\net5.0\Task_3Loops.pdb
+E:\OrangeTasks\C#-Tasks\Task_3Loops\obj\Debug\net5.0\Task_3Loops.genruntimeconfig.cache
